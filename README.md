@@ -8,11 +8,10 @@
 </a>
 
 
-- 👨‍ Sou Helvécio Neto, tenho 22 anos, sou de Salvador-BA.
-- 👨‍💻 Estágiario frontend na Cubos Tecnologia.
+- 👨‍ Sou Helvécio Neto, tenho 24 anos, sou de Salvador-BA.
+- 👨‍💻 Dev fullstack na Zig Fun.
 - 💻 Apaixonado pelo JavaScript e sua stack React, React Native e NodeJS.
 - 👨‍🎓 Aluno da Rocketseat - Turma 09.
 - 👨‍🎓 Técnico em Desenvolvimento de Sistemas - SENAI Cetind.
-- 📘 Cursando Sistemas da Informação - UNIFACS.
 - ⚽ Gosto muito de futebol e basquete.
 - 🎮 Amante de games (principalmente cs:go raiz).
